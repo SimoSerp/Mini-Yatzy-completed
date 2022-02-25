@@ -75,6 +75,9 @@ export default StyleSheet.create({
   spots: {
     flexDirection: "row",
   },
+  points:{
+    textAlign: 'center',
+  },
   
 
 });
